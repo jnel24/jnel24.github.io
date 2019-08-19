@@ -1,2 +1,2 @@
 # atelierau
-wesbite
+website
